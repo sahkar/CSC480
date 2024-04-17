@@ -6,12 +6,12 @@ import streamlit as st
 import numpy as np
 import time
 
-'''
-PyPi dependencies: 
-    pip install streamlit
-    pip instlal numpy (if needed)
-bash command to run: streamlit run lab2-visualization.py
-'''
+
+# PyPi dependencies: 
+#     pip install streamlit
+#     pip instlal numpy (if needed)
+# bash command to run: streamlit run lab2-visualization.py
+
 
 PLACEHOLDER_POS = (0,0)
 class Prey(Agent):
@@ -163,6 +163,9 @@ def visualize_grid(grid, height, width):
 
 
 def main():
+    st.set_page_config(page_title='Lab 2')
+    st.title('Lab 2: Multi Agent Systems')
+    st.subheader('Sahith Karra')
     # uses a form + number_input to retrieve model params from the user
     with st.form('Input Parameters'):
         cols = st.columns(4)
