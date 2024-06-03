@@ -1,0 +1,116 @@
+Diagnosis Code,,Description
+C85.80,,Other specified types of non-Hodgkin lymphoma, unspecified site
+C85.89,,Other specified types of non-Hodgkin lymphoma, extranodal and solid organ sites
+C85.90,,Non-Hodgkin lymphoma, unspecified, unspecified site
+C85.91,,Non-Hodgkin lymphoma, unspecified, lymph nodes of head, face, and neck
+C85.92,,Non-Hodgkin lymphoma, unspecified, intrathoracic lymph nodes
+C85.93,,Non-Hodgkin lymphoma, unspecified, intra-abdominal lymph nodes
+C85.94,,Non-Hodgkin lymphoma, unspecified, lymph nodes of axilla and upper limb
+C85.95,,Non-Hodgkin lymphoma, unspecified, lymph nodes of inguinal region and lower limb
+C85.96,,Non-Hodgkin lymphoma, unspecified, intrapelvic lymph nodes
+C85.97,,Non-Hodgkin lymphoma, unspecified, spleen
+C85.98,,Non-Hodgkin lymphoma, unspecified, lymph nodes of multiple sites
+C85.99,,Non-Hodgkin lymphoma, unspecified, extranodal and solid organ sites
+C90.00,,Multiple myeloma not having achieved remission
+C90.01,,Multiple myeloma in remission
+C90.02,,Multiple myeloma in relapse
+C91.00,,Acute lymphoblastic leukemia not having achieved remission
+C91.01,,Acute lymphoblastic leukemia, in remission
+C91.02,,Acute lymphoblastic leukemia, in relapse
+C92.60,,Acute myeloid leukemia with 11q23-abnormality not having achieved remission
+C92.61,,Acute myeloid leukemia with 11q23-abnormality in remission
+C92.62,,Acute myeloid leukemia with 11q23-abnormality in relapse
+C92.A0,,Acute myeloid leukemia with multilineage dysplasia, not having achieved remission
+C92.A1,,Acute myeloid leukemia with multilineage dysplasia, in remission
+C92.A2,,Acute myeloid leukemia with multilineage dysplasia, in relapse
+D46.C,,Myelodysplastic syndrome with isolated del(5q) chromosomal abnormality
+D46.Z,,Other myelodysplastic syndromes
+D51.0,,Vitamin B12 deficiency anemia due to intrinsic factor deficiency
+D53.9,,Nutritional anemia, unspecified
+D55.0,,Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency
+D55.1,,Anemia due to other disorders of glutathione metabolism
+D55.29,,Anemia due to other disorders of glycolytic enzymes
+D55.3,,Anemia due to disorders of nucleotide metabolism
+D55.8,,Other anemias due to enzyme disorders
+D55.9,,Anemia due to enzyme disorder, unspecified
+D56.0,,Alpha thalassemia
+D56.1,,Beta thalassemia
+D56.2,,Delta-beta thalassemia
+D56.3,,Thalassemia minor
+D56.5,,Hemoglobin E-beta thalassemia
+D56.8,,Other thalassemias
+D56.9,,Thalassemia, unspecified
+D57.00,,Hb-SS disease with crisis, unspecified
+D57.01,,Hb-SS disease with acute chest syndrome
+D57.02,,Hb-SS disease with splenic sequestration
+D57.03,,Hb-SS disease with cerebral vascular involvement
+D57.04,,Hb-SS disease with dactylitis (Effective 10/01/2023)
+D57.09,,Hb-SS disease with crisis with other specified complication
+D57.1,,Sickle-cell disease without crisis
+D57.20,,Sickle-cell/Hb-C disease without crisis
+D57.211,,Sickle-cell/Hb-C disease with acute chest syndrome
+D57.212,,Sickle-cell/Hb-C disease with splenic sequestration
+D57.213,,Sickle-cell/Hb-C disease with cerebral vascular involvement
+D57.214,,Sickle-cell/Hb-C disease with dactylitis (Effective 10/01/2023)
+D57.218,,Sickle-cell/Hb-C disease with crisis with other specified complication
+D57.219,,Sickle-cell/Hb-C disease with crisis, unspecified
+D57.3,,Sickle-cell trait
+D57.40,,Sickle-cell thalassemia without crisis
+D57.411,,Sickle-cell thalassemia, unspecified, with acute chest syndrome
+D57.412,,Sickle-cell thalassemia, unspecified, with splenic sequestration
+D57.413,,Sickle-cell thalassemia, unspecified, with cerebral vascular involvement
+D57.414,,Sickle-cell thalassemia, unspecified, with dactylitis (Effective 10/01/2023)
+D57.418,,Sickle-cell thalassemia, unspecified, with crisis with other specified complication
+D57.419,,Sickle-cell thalassemia, unspecified, with crisis
+D57.42,,Sickle-cell thalassemia beta zero without crisis
+D57.431,,Sickle-cell thalassemia beta zero with acute chest syndrome
+D57.432,,Sickle-cell thalassemia beta zero with splenic sequestration
+D57.433,,Sickle-cell thalassemia beta zero with cerebral vascular involvement
+D54.434,,Sickle-cell thalassemia beta zero with dactylitis (Effective 10/01/2023)
+D57.438,,Sickle-cell thalassemia beta zero with crisis with other specified complication
+D57.439,,Sickle-cell thalassemia beta zero with crisis, unspecified
+D57.44,,Sickle-cell thalassemia beta plus without crisis
+D57.451,,Sickle-cell thalassemia beta plus with acute chest syndrome
+D57.452,,Sickle-cell thalassemia beta plus with splenic sequestration
+D57.453,,Sickle-cell thalassemia beta plus with cerebral vascular involvement
+D57.454,,Sickle-cell thalassemia beta plus with dactylitis (Effective 10/01/2023)
+D57.458,,Sickle-cell thalassemia beta plus with crisis with other specified complication
+D57.459,,Sickle-cell thalassemia beta plus with crisis, unspecified
+D57.80,,Other sickle-cell disorders without crisis
+D57.811,,Other sickle-cell disorders with acute chest syndrome
+D57.812,,Other sickle-cell disorders with splenic sequestration
+D57.813,,Other sickle-cell disorders with cerebral vascular involvement
+D57.814,,Other sickle-cell disorders with dactylitis (Effective 10/01/2023)
+D57.818,,Other sickle-cell disorders with crisis with other specified complication
+D57.819,,Other sickle-cell disorders with crisis, unspecified
+D58.0,,Hereditary spherocytosis
+D58.1,,Hereditary elliptocytosis
+D58.9,,Hereditary hemolytic anemia, unspecified
+D59.0,,Drug-induced autoimmune hemolytic anemia
+D59.10,,Autoimmune hemolytic anemia, unspecified
+D59.11,,Warm autoimmune hemolytic anemia
+D59.12,,Cold autoimmune hemolytic anemia
+D59.13,,Mixed type autoimmune hemolytic anemia
+D59.19,,Other autoimmune hemolytic anemia
+D59.9,,Acquired hemolytic anemia, unspecified
+D60.0,,Chronic acquired pure red cell aplasia
+D60.1,,Transient acquired pure red cell aplasia
+D60.8,,Other acquired pure red cell aplasias
+D60.9,,Acquired pure red cell aplasia, unspecified
+D61.01,,Constitutional (pure) red blood cell aplasia
+D61.02,,Shwachman-Diamond syndrome (Effective 10/01/2023)
+D61.09,,Other constitutional aplastic anemia
+D61.1,,Drug-induced aplastic anemia
+D61.2,,Aplastic anemia due to other external agents
+D61.3,,Idiopathic aplastic anemia
+D61.89,,Other specified aplastic anemias and other bone marrow failure syndromes
+D63.0,,Anemia in neoplastic disease
+D63.1,,Anemia in chronic kidney disease
+D63.8,,Anemia in other chronic diseases classified elsewhere
+D64.0,,Hereditary sideroblastic anemia
+D64.1,,Secondary sideroblastic anemia due to disease
+D64.2,,Secondary sideroblastic anemia due to drugs and toxins
+D64.3,,Other sideroblastic anemias
+D64.4,,Congenital dyserythropoietic anemia
+D64.89,,Other specified anemias
+Z85.72,,Personal history of non-Hodgkin lymphomas
