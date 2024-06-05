@@ -26,7 +26,7 @@ if st.session_state.authenticated:
         st.session_state.client = OpenAI(api_key=st.session_state.openai_key)
 
     if 'codes' not in st.session_state:
-        st.session_state.codes = pd.read_csv('public/insurance_codes.csv', delimiter=',,')
+        st.session_state.codes = pd.read_csv('./public/insurance_codes.csv', delimiter=',,')
 
     if 'messages_icf' not in st.session_state:
         st.session_state.messages_icf = [
