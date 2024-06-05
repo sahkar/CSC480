@@ -26,7 +26,13 @@ if st.session_state.authenticated:
         st.session_state.client = OpenAI(api_key=st.session_state.openai_key)
 
     if 'codes' not in st.session_state:
-        st.session_state.codes = pd.read_csv('./public/insurance_codes.csv', delimiter=',,')
+        uploaded_file = st.file_uploader('Choose a file')
+        
+        if uploaded_file is None:
+            st.stop()
+        else:
+            df = pd.read_csv(uploaded_file)
+            st.session_state.codes = df
 
     if 'messages_icf' not in st.session_state:
         st.session_state.messages_icf = [
