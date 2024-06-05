@@ -31,7 +31,7 @@ if st.session_state.authenticated:
         if uploaded_file is None:
             st.stop()
         else:
-            df = pd.read_csv(uploaded_file)
+            df = pd.read_csv(uploaded_file, delimiter=',,')
             st.session_state.codes = df
 
     if 'messages_icf' not in st.session_state:
